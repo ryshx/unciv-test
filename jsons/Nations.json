@@ -1,40 +1,40 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Chinese",
+		"leaderName": "Wu",
+		"adjective": ["Emperor"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart2": "Our silk road provides many treasures.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Begone Barbarian!",
+		"attacked": "You have made a grave mistake.",
+		"defeated": "It seems the Mantle of Heaven has been lost.",
+		"introduction": "Kneel before the great Han.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "How is the realm?",
 		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "What?",
 		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		//"afterPeace": "You understand war in your lifetime. We understand war in the millenia.",
+		"tradeRequest": "We offer you trade through our silk road.",
+		"denounced": "...",
+		"declaringfriendship": "To great trade and alliance!",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"innerColor": [155,17,30],
+		"unique": "SILK_ROAD",
+		"cities": ["Chang'an","Luoyang","Chengdu","Linzi","Handan","Jicheng","Pengcheng","Xiangyang","Nanyang",
+			"Hanzhong","Shouchun","Jiangling","Hefei","Guangling","Kuaiji","Qiantang","Panyu","Fuling",
+			"Yueyang","Wenchang","Dunhuang","Jiuquan","Zhangye","Wuwei","Longxi","Tianshui","Anding",
+			"Beidi","Shuofang","Yanmen","Taiyuan","Pingyang","Anyang","Chenliu","Kaifeng"]
 	}
 ]
