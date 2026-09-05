@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Chinese",
-		"leaderName": "Wu",
-		"adjective": ["Emperor"],
+		"leaderName": "Emperor Wu",
+		"adjective": ["Chinese"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "Our silk road provides many treasures.",
+		"startIntroPart2": "Lead our great empire to victory amass treasures from our silk road and lead our great empire to victory.",
 		
 		"declaringWar": "Begone Barbarian!",
 		"attacked": "You have made a grave mistake.",
