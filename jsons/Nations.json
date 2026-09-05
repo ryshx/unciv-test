@@ -31,7 +31,8 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [155,17,30],
-		"unique": "SILK_ROAD",
+		"uniqueName": "Silk Road",
+		"uniques": ["+2 Gold, +1 Culture from every Luxury resource"]
 		"cities": ["Chang'an","Luoyang","Chengdu","Linzi","Handan","Jicheng","Pengcheng","Xiangyang","Nanyang",
 			"Hanzhong","Shouchun","Jiangling","Hefei","Guangling","Kuaiji","Qiantang","Panyu","Fuling",
 			"Yueyang","Wenchang","Dunhuang","Jiuquan","Zhangye","Wuwei","Longxi","Tianshui","Anding",
