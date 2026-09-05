@@ -1,17 +1,18 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Commandery",
+		"replaces": "Courthouse",
+		"uniqueTo": "Chinese",
+		"cost": 1,
+		"happiness": 2,
+		"culture": 1,
+		"science": 1,
+		"gold": 1,
+		"uniques": ["Removes extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
 	},
+	
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
