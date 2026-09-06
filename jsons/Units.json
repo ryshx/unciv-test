@@ -6,7 +6,7 @@
 		"replaces": "Composite Bowman",
 		"movement": 2,
 		"strength": 6,
-		"rangedStrength": 18,
+		"rangedStrength": 14,
 		"range": 2,
 		"cost": 50,
 		"requiredTech": "Construction",
@@ -21,14 +21,14 @@
 		"uniqueTo": "Chinese",
 		"replaces": "Galleass",
 		"movement": 3,
-		"strength": 40,
+		"strength": 35,
 		"rangedStrength": 15,
 		"cost": 100,
 		"requiredTech": "Compass",
 		"obsoleteTech": "Navigation",
 		"uniques": ["Cannot enter ocean tiles"],
 		"upgradesTo": "Frigate",
-		"promotions": ["Logistics"],
+		"promotions": ["Logistics", "Sentry"],
 		"attackSound": "arrow"
 	}
 ]
