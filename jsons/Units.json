@@ -27,8 +27,7 @@
 		"requiredTech": "Compass",
 		"obsoleteTech": "Navigation",
 		"uniques": ["Cannot enter ocean tiles"],
-		"upgradesTo": "Galleass",
-		"obsoleteTech": "Astronomy",
+		"upgradesTo": "Frigate",
 		"promotions": ["Logistics"],
 		"attackSound": "arrow"
 	}
