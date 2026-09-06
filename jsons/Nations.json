@@ -6,7 +6,7 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
+		"startIntroPart1": "The heavenly mandate is yours!!",
 		"startIntroPart2": "Lead our great empire to victory amass treasures from our silk road and lead our great empire to victory.",
 		
 		"declaringWar": "Begone Barbarian!",
@@ -32,7 +32,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [155,17,30],
 		"uniqueName": "Silk Road",
-		"uniques": ["+2 Gold, +1 Culture from every Luxury resource"]
+		"uniques": ["+2 Gold, +1 Culture from every Luxury resource", "[+8 Happiness] [in all cities] <before discovering [Archaeology]>"]
 		"cities": ["Chang'an","Luoyang","Chengdu","Linzi","Handan","Jicheng","Pengcheng","Xiangyang","Nanyang",
 			"Hanzhong","Shouchun","Jiangling","Hefei","Guangling","Kuaiji","Qiantang","Panyu","Fuling",
 			"Yueyang","Wenchang","Dunhuang","Jiuquan","Zhangye","Wuwei","Longxi","Tianshui","Anding",
