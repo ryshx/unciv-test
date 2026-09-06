@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Han-Nu",
-		"unitType": "Ranged",
+		"unitType": "Archery",
 		"uniqueTo": "Chinese",
 		"replaces": "Composite Bowman",
 		"movement": 2,
@@ -13,6 +13,23 @@
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
 		"promotions": ["Extended Range"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Louchuan",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Chinese",
+		"replaces": "Galleass",
+		"movement": 3,
+		"strength": 40,
+		"rangedStrength": 15,
+		"cost": 100,
+		"requiredTech": "Compass",
+		"obsoleteTech": "Navigation",
+		"uniques": ["Cannot enter ocean tiles"],
+		"upgradesTo": "Galleass",
+		"obsoleteTech": "Astronomy",
+		"promotions": ["Logistics"],
 		"attackSound": "arrow"
 	}
 ]
